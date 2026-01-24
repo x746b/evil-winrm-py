@@ -201,7 +201,7 @@ Note: Use absolute paths for upload/download for reliability.
 - Prompt Toolkit - https://github.com/prompt-toolkit/python-prompt-toolkit
 - tqdm - https://github.com/tqdm/tqdm
 - Thanks to [Github Coplilot](https://github.com/features/copilot) and [Google Gemini](https://gemini.google.com/app) for code suggestions and improvements.
-- [xtk](https://github.com/x746b) - revshell feature (ported from [winrmexec](https://github.com/x746b/winrmexec))
+- [xtk](https://github.com/x746b) - revshell feature (ported from [winrmexec](https://github.com/ozelis/winrmexec))
 
 ## Stargazers over time
 
